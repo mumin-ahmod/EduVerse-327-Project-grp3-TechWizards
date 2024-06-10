@@ -16,7 +16,7 @@ Mohammad Jobair Alam Sarder – 2111355642
 
 
 Classes and models of classes are in directory: App/Http/Models  
-Most of the Frontend Code: Resources/Views/frontend
+Most of the Frontend Code: Resources/Views/frontend  
 Backend and database code: app/http/Controllers
 
 
